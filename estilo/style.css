@@ -81,10 +81,10 @@ section p{
 }
 
 #q1{
-    background-image: url('/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
 }
 #q2{
-    background-image: url('/imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
 }
 
 section.imagem > p{
